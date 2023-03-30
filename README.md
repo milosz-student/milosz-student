@@ -3,7 +3,7 @@
 
 - 👷 I’m currently working on **fully automated YouTube channel.**
 
-- 🎓 Also my Engineering Thesis is <a href="https://github.com/milosz-student/assembly-virtual-machine">**ASMx86 Virtual Machine</a>(in progress)**
+- 🎓 Also my Engineering Thesis is <a href="https://github.com/milosz-student/assembly-virtual-machine">**ASMx86 Virtual Machine</a> *(in progress)* **
 
 - 🔍 I’m currently learning **Machine Learning, Reverse engineering**
 
