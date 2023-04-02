@@ -5,7 +5,7 @@
 
 - 🎓 Also my Engineering Thesis is <a href="https://github.com/milosz-student/assembly-virtual-machine">**ASMx86 Virtual Machine**</a> *(in progress)*
 
-- 🔍 I’m currently learning **Machine Learning, Reverse engineering**
+- 🔍 I’m currently learning **Machine Learning,<a href="https://github.com/milosz-student/assembly-virtual-machine"> Reverse engineering**</a>
 
 - 🤝 I’m open to collaborate on **open source projects related to machine learning and data science.**
 
