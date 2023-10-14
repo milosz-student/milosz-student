@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [milosz.ilecki@gmail.com](milosz.ilecki@gmail.com)
 
-- ⚡ Fun fact **hooked on paper crafts, financial freedom, art.**
+- ⚡ Fun fact **hooked on sport shooting, financial freedom, art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
