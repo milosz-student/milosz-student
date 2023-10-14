@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Miłosz</h1>
 <h3 align="center">Third-year Computer Science student at Gdańsk University of Technology</h3>
 
-- 👷 I’m currently working on **fully automated YouTube channel.**
+- 👷 I’m currently working on **microcontroller for smart terrarium**
 
 - 🎓 Also my Engineering Thesis is <a href="https://github.com/milosz-student/assembly-virtual-machine">**ASMx86 Virtual Machine**</a> *(in progress)*
 
