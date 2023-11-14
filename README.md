@@ -3,7 +3,7 @@
 
 - 👷 I’m currently working on **microcontroller for smart terrarium**
 
-- 🎓 Also my Engineering Thesis is <a href="https://github.com/milosz-student/assembly-virtual-machine">**ASMx86 Virtual Machine**</a> *(in progress)*
+- 🎓 Also my Engineering Thesis is <a href="https://git.pg.edu.pl/p1306372/assembly-virtual-machine">**ASMx86 Virtual Machine**</a> *(in progress)*
 
 - 🔍 I’m currently learning **Machine Learning,<a href="https://github.com/milosz-student/assembly-virtual-machine"> Reverse engineering**</a>
 
