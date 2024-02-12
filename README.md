@@ -5,13 +5,13 @@
 
 - 🎓 Also my Engineering Thesis is <a href="https://git.pg.edu.pl/p1306372/assembly-virtual-machine">**ASMx86 Virtual Machine**</a>
 
-- 🔍 I’m currently learning **Machine Learning,<a href="https://github.com/milosz-student/assembly-virtual-machine"> Reverse engineering**</a>
+- 🔍 I’m currently learning **<a href="https://github.com/milosz-student/assembly-virtual-machine">Machine Learning</a>,<a href="https://github.com/milosz-student/assembly-virtual-machine"> Reverse engineering**</a>
 
 - 🤝 I’m open to collaborate on **open source projects related to machine learning and data science.**
 
 - 👨‍💻 All of my public projects are available at <a href="https://github.com/milosz-student?tab=repositories">**here.**</a>
 
-- 👀 I’m currently looking for **an internship.**
+- 👀 I’m currently looking for **an internship in the field of AI/ML.**
 
 - 📫 How to reach me [milosz.ilecki@gmail.com](milosz.ilecki@gmail.com)
 
