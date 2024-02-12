@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Miłosz</h1>
-<h3 align="center">Third-year Computer Science student at Gdańsk University of Technology</h3>
+<h3 align="center">Bachelor's degree in Computer Science at Gdańsk University of Technology</h3>
 
 - 👷 I’m currently working on **microcontroller for smart terrarium**
 
